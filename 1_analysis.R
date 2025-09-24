@@ -1,6 +1,7 @@
 
 # Load the tidyverse library.
 # this is a comment
+# this is another comment
 
 library(tidyverse)
 
